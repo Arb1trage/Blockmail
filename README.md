@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version: 1.0](https://img.shields.io/badge/Version-1.0-brightgreen)]
+
+
 # Blockmail
 Blockmail enables sending on-chain messages using Python and the web3 library. Supports multiple blockchain networks, including Binance Smart Chain (BSC), Ethereum (ETH), Crypto.org (CRO), Fantom (FTM), Avalanche (AVAX), Polygon (POLY), and Milkomeda (MADA).
 
