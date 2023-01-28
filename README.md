@@ -19,7 +19,8 @@ recv_address = <destination_address>
 
 [content]
 message = <message_to_send>
-tx_value = <value_in_ether>```
+tx_value = <value_in_ether>
+```
 3. Run the script and it will output a link to view the transaction on a blockchain explorer.
 
 ## Notes
