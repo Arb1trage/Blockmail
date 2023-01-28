@@ -14,12 +14,12 @@ Blockmail enables sending on-chain messages using Python and the web3 library. S
 ```[addresses]
 source_address = <your_address>
 source_privkey = <your_private_key>
-chain = <network_name> (e.g. mainnet, ropsten)
-recv_address = <destination_address>
+chain = <network_ticker> (e.g. ETH, BSC)
+recv_address = <message_receiver_address>
 
 [content]
 message = <message_to_send>
-tx_value = <value_in_ether>
+tx_value = <value_denominated_in_ether>
 ```
 3. Run the script and it will output a link to view the transaction on a blockchain explorer.
 
